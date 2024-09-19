@@ -1,1 +1,5 @@
-GET http://localhost:3000/api
+GET http://localhost:3000/api/web-pubsub/token/my-user
+
+###
+
+POST http://localhost:3000/api/web-pubsub/send
